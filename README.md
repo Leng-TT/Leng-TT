@@ -1,4 +1,7 @@
-## Hi there 👋
+- 👋 Hi my name is Leng Thao
+- 💬 I'm interested in Tech, specifically Systems and Networks
+- 🌱 I’m currently deciding on what my ITI specilization should be
+- ⚡ Fun fact: I enjoy hiking and the outdoors
 
 <!--
 **Leng-TT/Leng-TT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
